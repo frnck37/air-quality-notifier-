@@ -22,9 +22,9 @@
 
 Adafruit_SSD1306 display(SCREEN_WIDTH, SCREEN_HEIGHT, &Wire, OLED_RESET);
 
-const char* ssid = "Livebox-4650";
-const char* password = "MaisonDANDAULT ";
-const String apiKey = "761239f3ef70e2b00837a8b725224ce182e10c26";
+const char* ssid = "you wifi ssid";
+const char* password = "you wifi password ";
+const String apiKey = "you api key";
 const String apiEndpoint = "https://api.waqi.info/feed/here/?token=" + apiKey;
 
 void setup() {
