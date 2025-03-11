@@ -6,3 +6,5 @@ Use the https://aqicn.org API (https://aqicn.org/api/)
 Suscribe to get a free API key, change the reference in the sketch, and you're good to go !
 
 World Map of the https://aqicn.org/ project is here : https://waqi.info/
+
+11/03/2025: I've added real time Nasdaq and CAC40 indices infos, to help you get included in the global economy movement, and help you to make the right choices about it.
